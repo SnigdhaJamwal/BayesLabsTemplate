@@ -3,4 +3,7 @@ This repository is meant to serve as a general template for how to set up new re
 
 ## Checklist
 
+### 1. Licence
+Update the year  
+
 
